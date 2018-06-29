@@ -1,6 +1,6 @@
 # Learn React
 
-Source content for [learnreactjs.github.io](https://learnreactjs.github.io)
+Source content for [learnreactjs.org](https://www.learnreactjs.org)
 
 ## Contribution
 
